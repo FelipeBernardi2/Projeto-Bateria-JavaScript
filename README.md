@@ -1,4 +1,4 @@
-2️⃣ Teclado/Bateria
+Teclado/Bateria
 
 Um teclado musical que reproduz sons ao pressionar teclas ou clicar nos botões.
 
